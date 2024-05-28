@@ -1,18 +1,24 @@
-# Nombre del Proyecto
+# Analisis Multivariado caso CREDIT-CARD
 
 Breve descripción del proyecto.
 
 ## Requisitos
 
-- R (versión X.X.X)
+- R 
 - Otros paquetes o dependencias necesarios
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+1. Clona este repositorio: `git clone https://github.com/anllacarpro/Analisis-Multivariado-caso-CREDIT-CARD`
 2. Abre el archivo `proyecto.R` en RStudio.
-3. Instala los paquetes necesarios: `install.packages("nombre-del-paquete")`
-4. Ejecuta el código: `source("proyecto.R")`
+3. Instala los paquetes necesarios:
+4. `install.packages("ISLR")
+install.packages("GGally")
+install.packages("ggplot2")
+install.packages("car")
+install.packages("corrplot")
+`
+5. Ejecuta el código: `source("proyecto.R")`
 
 ## Uso
 
